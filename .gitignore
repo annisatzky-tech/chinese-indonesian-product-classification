@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ML models/checkpoints
+models/
+checkpoints/
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# Large local datasets
+data/raw/
