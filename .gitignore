@@ -225,8 +225,5 @@ checkpoints/
 *.pt
 *.pth
 
-# Large local datasets
-data/raw/
-
 # Hugging Face / XLM-R training checkpoints
 notebooks/xlmr_results/checkpoint-*/
