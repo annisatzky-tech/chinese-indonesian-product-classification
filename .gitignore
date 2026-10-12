@@ -6,6 +6,7 @@
 
 # Python environments
 .venv/
+.venv-old/
 venv/
 ENV/
 env/
